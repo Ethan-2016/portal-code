@@ -18,7 +18,6 @@ desktop.ini
 node_modules
 /dist
 /portal
-vue.config.js
 package-lock.json
 # local env files
 .env.local
